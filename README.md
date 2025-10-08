@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mounika14112006&label=Profile%20views&color=0e75b6&style=flat" alt="mounika14112006" /> </p>
 
-- 🔭 I’m currently working on **Custom Chatgpt**
-
 - 👨‍💻 All of my projects are available at [https://portfolio-guduru-mounikas-projects.vercel.app/](https://portfolio-guduru-mounikas-projects.vercel.app/)
 
 - 📫 How to reach me **gudurumounika14@gmail.com**
